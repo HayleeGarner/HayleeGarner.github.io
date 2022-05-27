@@ -1,2 +1,2 @@
-# HayleeGarner.github.io
+# garnerh.github.io
 My Personal Website
