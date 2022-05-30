@@ -11,3 +11,9 @@
 .img-rex {
   width: 300px;
 }
+
+h1 {
+  font-family: "arial", "times new roman";
+  font-size: 22px;
+  font-weight: bolder;
+}
