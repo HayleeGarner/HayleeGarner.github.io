@@ -12,3 +12,10 @@ h1 {
   font-size: 40px;
   font-weight: bolder;
 }
+
+h3 {
+  font-family: "arial"
+  font-size: 22px
+  font-style:italic;
+  font-weight: bold;
+}
