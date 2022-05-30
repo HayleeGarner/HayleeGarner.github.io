@@ -11,6 +11,8 @@ h1 {
   font-family: "arial", "times new roman";
   font-size: 40px;
   font-weight: bolder;
+  text-align: center;
+  color: blue;
 }
 
 h3 {
@@ -18,4 +20,5 @@ h3 {
   font-style: italic;
   font-size: 22px;
   font-weight: bold;
+  text-align: center;
 }
