@@ -14,8 +14,8 @@ h1 {
 }
 
 h3 {
-  font-family: "arial"
-  font-size: 22px
-  font-style:italic;
+  font-family: "arial", "times new roman";
+  font-style: italic;
+  font-size: 22px;
   font-weight: bold;
 }
