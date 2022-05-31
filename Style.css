@@ -22,3 +22,16 @@ h3 {
   font-weight: bold;
   text-align: center;
 }
+
+p{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.img-Fireworks {
+  width: 800px;
+}
+
+.img-Birthday {
+  Width: 300px
+}
