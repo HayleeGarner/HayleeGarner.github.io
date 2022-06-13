@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "arial", "times new roman";
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  color: blue;
+}
+
+h3 {
+  font-family: "arial", "times new roman";
+  font-style: italic;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p{
+  margin-right: 150px;
+  margin-left: 150px;
+}
